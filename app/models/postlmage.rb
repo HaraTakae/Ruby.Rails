@@ -1,2 +1,0 @@
-class Postlmage < ApplicationRecord
-end
